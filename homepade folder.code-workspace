@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "homepade folder"
+		},
+		{
+			"path": "design"
+		},
+		{
+			"path": "assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homepade folder"
+	}
+}
